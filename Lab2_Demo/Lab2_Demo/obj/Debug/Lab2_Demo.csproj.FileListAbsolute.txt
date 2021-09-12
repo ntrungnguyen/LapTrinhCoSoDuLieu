@@ -1,0 +1,13 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\bin\Debug\Lab2_Demo.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\bin\Debug\Lab2_Demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\bin\Debug\Lab2_Demo.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.frmTrungTam.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.frmGiaoVien.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.frmTBGiaoVien.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab2_Demo\Lab2_Demo\obj\Debug\Lab2_Demo.frmTimThongTin.resources
