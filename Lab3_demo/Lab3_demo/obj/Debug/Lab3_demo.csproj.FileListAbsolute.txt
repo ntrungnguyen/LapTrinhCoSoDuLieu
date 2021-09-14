@@ -1,0 +1,21 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.frmSinhVien.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.exe.config
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\bin\Debug\Lab3_demo.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.AssemblyReference.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.frmSinhVien.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.Properties.Resources.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.GenerateResource.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.csproj.CoreCompileInputs.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\BT_LAB\Lab3_demo\Lab3_demo\obj\Debug\Lab3_demo.frmTuyChon.resources
