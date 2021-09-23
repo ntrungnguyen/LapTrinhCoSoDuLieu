@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\bin\Debug\Lab4_Demo.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.pdb
