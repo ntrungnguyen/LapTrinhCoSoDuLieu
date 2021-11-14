@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\bin\Debug\Lab7_Advanced_Command.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.FoodInfoForm.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AccountForm.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrdersForm.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.AddCategory.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab7_Advanced_Command\Lab7_Advanced_Command\obj\Debug\Lab7_Advanced_Command.OrdersDetailsForm.resources
