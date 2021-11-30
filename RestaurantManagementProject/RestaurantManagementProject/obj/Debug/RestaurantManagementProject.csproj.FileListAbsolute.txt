@@ -1,0 +1,16 @@
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe.config
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.exe
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\RestaurantManagementProject.pdb
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.dll
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.dll
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\BusinessLogic.pdb
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\bin\Debug\DataAccess.pdb
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.exe
+C:\Users\nguye\OneDrive\Máy tính\RestaurantManagementProject\RestaurantManagementProject\obj\Debug\RestaurantManagementProject.pdb
