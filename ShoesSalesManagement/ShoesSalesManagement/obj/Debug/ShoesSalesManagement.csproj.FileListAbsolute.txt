@@ -1,0 +1,67 @@
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe.config
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.pdb
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\Guna.UI.dll
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Form1.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Home.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Properties.Resources.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CopyComplete
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.exe
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.pdb
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormBanHang.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThongKe.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.dll
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.dll
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.pdb
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.pdb
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormQuanLyMatHang.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThemLoai.resources
+C:\Users\nguye\Downloads\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThemMatHang.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe.config
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.pdb
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.dll
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.dll
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.pdb
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.pdb
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.AssemblyReference.cache
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Form1.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormBanHang.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormQuanLyMatHang.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThemLoai.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThongKe.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Home.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Properties.Resources.resources
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.GenerateResource.cache
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CopyComplete
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.exe
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.pdb
+C:\Users\TrungNguyen\Desktop\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormChiTietHoaDon.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe.config
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.exe
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\ShoesSalesManagement.pdb
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.dll
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.dll
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\BusinessLogic.pdb
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\bin\Debug\DataAccess.pdb
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.AssemblyReference.cache
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Form1.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormBanHang.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormChiTietHoaDon.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormQuanLyMatHang.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThemLoai.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Forms.FormThongKe.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Home.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.Properties.Resources.resources
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.GenerateResource.cache
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CoreCompileInputs.cache
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.csproj.CopyComplete
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.exe
+C:\Users\TrungNguyen\Desktop\Đề tài\ShoesSalesManagement\ShoesSalesManagement\obj\Debug\ShoesSalesManagement.pdb
