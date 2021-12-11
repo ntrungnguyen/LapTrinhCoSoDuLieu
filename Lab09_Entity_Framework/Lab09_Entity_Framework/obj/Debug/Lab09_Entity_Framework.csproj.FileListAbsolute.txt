@@ -1,0 +1,34 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
+C:\Users\nguye\OneDrive\Máy tính\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe.config
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.exe
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\Lab09_Entity_Framework.pdb
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.dll
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.xml
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.AssemblyReference.cache
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.SuggestedBindingRedirects.cache
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.MainForm.resources
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.Properties.Resources.resources
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateCategoryForm.resources
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.UpdateFoodForm.resources
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.GenerateResource.cache
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CoreCompileInputs.cache
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.csproj.CopyComplete
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.exe
+C:\Users\TrungNguyen\Desktop\Lab09_Entity_Framework\Lab09_Entity_Framework\obj\Debug\Lab09_Entity_Framework.pdb
