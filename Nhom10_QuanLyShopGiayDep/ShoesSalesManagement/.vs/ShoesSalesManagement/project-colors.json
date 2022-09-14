@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd0731ce-b3ff-4455-a201-a54bf66abea7": {
+      "ProjectGuid": "cd0731ce-b3ff-4455-a201-a54bf66abea7",
+      "DisplayName": "ShoesSalesManagement",
+      "ColorIndex": 0
+    },
+    "5cd0673b-478b-4b3e-86e7-ad407fad4599": {
+      "ProjectGuid": "5cd0673b-478b-4b3e-86e7-ad407fad4599",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "e6f43de4-3cfb-4173-8d44-ddb697ce730e": {
+      "ProjectGuid": "e6f43de4-3cfb-4173-8d44-ddb697ce730e",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

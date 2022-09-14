@@ -1,0 +1,70 @@
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe.config
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.pdb
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.exe
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.pdb
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.FormQuanLy.resources
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.frmThemSV.resources
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.ResolveComReference.cache
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Memory.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.Buffers.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.exe.config
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.xml
+C:\Users\nguye\OneDrive\Máy tính\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe.config
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.dll
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.dll
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.xml
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.xml
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.AssemblyReference.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.ResolveComReference.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.FormQuanLy.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.Properties.Resources.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.frmThemSV.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.GenerateResource.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CoreCompileInputs.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CopyComplete
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.SuggestedBindingRedirects.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe.config
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.exe
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\OnTapKiemTra_Phan1.pdb
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.dll
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.dll
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\EPPlus.xml
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\bin\Debug\Newtonsoft.Json.xml
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.AssemblyReference.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.SuggestedBindingRedirects.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.ResolveComReference.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.FormQuanLy.resources
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.Properties.Resources.resources
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.frmThemSV.resources
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.GenerateResource.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CoreCompileInputs.cache
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.csproj.CopyComplete
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.exe
+D:\CTK43_CNTT\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\OnTapKiemTra_Phan1\OnTapKiemTra_Phan1\obj\Debug\OnTapKiemTra_Phan1.pdb

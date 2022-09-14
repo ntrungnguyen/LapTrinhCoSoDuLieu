@@ -1,0 +1,12 @@
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nguye\Downloads\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\TrungNguyen\Desktop\DeTaiMoi\ShoesSalesManagement\DataAccess\obj\Debug\DataAccess.pdb
