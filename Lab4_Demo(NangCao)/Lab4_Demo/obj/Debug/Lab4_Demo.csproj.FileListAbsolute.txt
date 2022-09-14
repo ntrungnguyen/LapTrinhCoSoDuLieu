@@ -1,0 +1,5 @@
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmPicture.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.frmPictureView.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Lab4_Demo\Lab4_Demo\obj\Debug\Lab4_Demo.csproj.CoreCompileInputs.cache

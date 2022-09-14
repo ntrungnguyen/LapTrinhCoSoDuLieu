@@ -1,0 +1,11 @@
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\bin\Debug\ABC Restaurant.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\bin\Debug\ABC Restaurant.exe
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\bin\Debug\ABC Restaurant.pdb
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC_Restaurant.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC_Restaurant.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.exe
+C:\Users\nguye\OneDrive\Máy tính\ABC Restaurant\ABC Restaurant\obj\Debug\ABC Restaurant.pdb

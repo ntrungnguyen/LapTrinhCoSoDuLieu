@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sjZUFrI/dmu2xi0KlosXXLbPWF3zd3yUAxK0RW8Wonle7CplRswLnEvyw0Fc35lr07gchW99NMIenzyPEscPug==",
+  "success": true,
+  "projectFilePath": "D:\\Học\\Năm 3\\Học Kì 1\\Lập Trình Cơ Sở Dữ Liệu\\BT_LAB\\Demo 1-9-2021\\Demo 1-9-2021\\Demo 1-9-2021\\Demo 1-9-2021.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
