@@ -1,0 +1,22 @@
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.exe.config
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.exe
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.pdb
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.exe
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.pdb
+C:\Users\nguye\OneDrive\Máy tính\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Form2.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.exe.config
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\bin\Debug\BaiTapVD.pdb
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.AssemblyReference.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Form1.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Form2.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.Properties.Resources.resources
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.GenerateResource.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.csproj.CoreCompileInputs.cache
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.exe
+D:\Học\Năm 3\Học Kì 1\Lập Trình Cơ Sở Dữ Liệu\Bài tập\BaiTapVD\BaiTapVD\obj\Debug\BaiTapVD.pdb

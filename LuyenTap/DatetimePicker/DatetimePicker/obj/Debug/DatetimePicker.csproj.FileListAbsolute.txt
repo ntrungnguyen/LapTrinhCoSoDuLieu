@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\bin\Debug\DatetimePicker.exe.config
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\bin\Debug\DatetimePicker.exe
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\bin\Debug\DatetimePicker.pdb
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.exe
+C:\Users\nguye\OneDrive\Máy tính\DatetimePicker\DatetimePicker\obj\Debug\DatetimePicker.pdb

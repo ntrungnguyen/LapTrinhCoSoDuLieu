@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\bin\Debug\ComboBoxAndListBox.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\bin\Debug\ComboBoxAndListBox.exe
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\bin\Debug\ComboBoxAndListBox.pdb
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.exe
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.pdb
+C:\Users\nguye\OneDrive\Máy tính\ComboBoxAndListBox\ComboBoxAndListBox\obj\Debug\ComboBoxAndListBox.LstBoxNN.resources

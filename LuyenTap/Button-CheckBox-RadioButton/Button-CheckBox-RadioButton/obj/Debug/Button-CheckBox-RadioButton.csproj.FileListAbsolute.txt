@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\bin\Debug\Button-CheckBox-RadioButton.exe.config
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\bin\Debug\Button-CheckBox-RadioButton.exe
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\bin\Debug\Button-CheckBox-RadioButton.pdb
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button-CheckBox-RadioButton.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button_CheckBox_RadioButton.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button_CheckBox_RadioButton.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button-CheckBox-RadioButton.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button-CheckBox-RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button-CheckBox-RadioButton.exe
+C:\Users\nguye\OneDrive\Máy tính\Button-CheckBox-RadioButton\Button-CheckBox-RadioButton\obj\Debug\Button-CheckBox-RadioButton.pdb

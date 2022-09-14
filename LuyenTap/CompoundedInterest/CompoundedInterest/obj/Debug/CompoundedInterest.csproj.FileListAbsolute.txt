@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\bin\Debug\CompoundedInterest.exe.config
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\bin\Debug\CompoundedInterest.exe
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\bin\Debug\CompoundedInterest.pdb
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.exe
+C:\Users\nguye\OneDrive\Máy tính\CompoundedInterest\CompoundedInterest\obj\Debug\CompoundedInterest.pdb

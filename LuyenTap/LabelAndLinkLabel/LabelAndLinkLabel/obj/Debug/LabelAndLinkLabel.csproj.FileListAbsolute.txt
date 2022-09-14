@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\bin\Debug\LabelAndLinkLabel.exe.config
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\bin\Debug\LabelAndLinkLabel.exe
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\bin\Debug\LabelAndLinkLabel.pdb
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.lnk1.resources
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.exe
+C:\Users\nguye\OneDrive\Máy tính\LabelAndLinkLabel\LabelAndLinkLabel\obj\Debug\LabelAndLinkLabel.pdb

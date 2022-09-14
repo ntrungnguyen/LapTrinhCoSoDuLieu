@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe.config
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.exe
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\bin\Debug\MaskedTextBox.pdb
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.exe
+C:\Users\nguye\OneDrive\Máy tính\MaskedTextBox\MaskedTextBox\obj\Debug\MaskedTextBox.pdb

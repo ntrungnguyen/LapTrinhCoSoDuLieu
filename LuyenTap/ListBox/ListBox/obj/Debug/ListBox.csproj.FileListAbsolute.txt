@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\bin\Debug\ListBox.exe
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\bin\Debug\ListBox.pdb
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.exe
+C:\Users\nguye\OneDrive\Máy tính\ListBox\ListBox\obj\Debug\ListBox.pdb

@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\bin\Debug\BooleanAlgebra.exe.config
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\bin\Debug\BooleanAlgebra.exe
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\bin\Debug\BooleanAlgebra.pdb
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.Form1.resources
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.exe
+C:\Users\nguye\OneDrive\Máy tính\BooleanAlgebra\BooleanAlgebra\obj\Debug\BooleanAlgebra.pdb
